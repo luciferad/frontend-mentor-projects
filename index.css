@@ -14,10 +14,10 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 100vh;
 }
 .card {
     width: 325px;
-    margin-top: 5%;
     background: hsl(0, 0%, 100%);
     border-radius: 1.25em;
     display: flex;
@@ -37,9 +37,10 @@ h1 {
 }
 p {
     color: hsl(220, 15%, 55%);
+    font-size: 0.9375rem;
     font-weight: 400;
     text-align: center;
-    margin: 1rem 1.4rem 3rem 1.4rem;
+    margin: 1rem 2rem 3rem 2rem;
 }
 .attribution {
     margin-top: 20px;
