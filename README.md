@@ -26,7 +26,7 @@ I've learned HTML & CSS for two months and now I'm practicing them. this is my f
 
 ### Links
 
-- Solution URL: [My Solution](https://github.com/luciferad/qr-code-component-main/settings/pages)
+- Solution URL: [My Solution](https://github.com/luciferad/qr-code-component-main)
 - Live Site URL: [My Live URL](https://luciferad.github.io/qr-code-component-main/)
 
 ## My process
