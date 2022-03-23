@@ -1,5 +1,6 @@
 @charset "utf-8";
 
+}
 html {
     box-sizing: border-box;
 }
@@ -9,7 +10,7 @@ html {
 body {
     font-family: 'Outfit', sans-serif;
     background: hsl(212, 45%, 89%);
-    display: flex;
+    display: flex;      /* { display: grid; place-items: center; } */
     flex-direction: column;
     justify-content: center;
     align-items: center;
